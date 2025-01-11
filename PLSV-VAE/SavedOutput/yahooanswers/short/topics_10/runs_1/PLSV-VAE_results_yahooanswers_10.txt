@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------------------
+
+runtime: - 39385.9972281456s
+
+---------------Printing the Topics------------------
+0: doe help people time year good find don friend guy
+1: download song window software file computer dvd laptop website music
+2: friend time girl guy help year love don good thing
+3: time year people don love life thing day help friend
+4: people year time don help day god question life good
+5: people doe question answer song help don good yahoo weight
+6: people year time god don help life question day american
+7: doe help find best answer good question people guy time
+8: god people american war country bush nthe iraq year question
+9: people year time don life help school day good thing
+---------------End of Topics---------------------
+KNN:- [0.2883720706306399, 0.23545686366707375, 0.2126999385360014, 0.19986230780464398, 0.1906972713515179]------------------------------------------------------------------------------------------
+

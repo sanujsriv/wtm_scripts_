@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------------------
+
+runtime: - 3588.8367817401886s
+
+---------------Printing the Topics------------------
+0: cup champion team year final olympic second win athens quot
+1: iraq killed people baghdad iraqi police reuters official attack city
+2: bush president john kerry election state presidential campaign house quot
+3: minister prime palestinian leader president government reuters iraq quot darfur
+4: microsoft company software service internet computer system technology music search
+5: president nuclear election minister state reuters united quot country iran
+6: year space quot scientist people reuters nasa official monday state
+7: game season night team year victory york coach point three
+8: reuters oil price stock percent quarter investor year york profit
+9: company corp billion executive group year reuters plan chief business
+---------------End of Topics---------------------
+KNN:- [0.8503393419933633, 0.8465040270806583, 0.8458703663559506, 0.8452367056312428, 0.8446280578298788]------------------------------------------------------------------------------------------
+

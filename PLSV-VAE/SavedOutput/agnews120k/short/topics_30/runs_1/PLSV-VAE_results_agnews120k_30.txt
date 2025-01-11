@@ -1,0 +1,38 @@
+------------------------------------------------------------------------------------------
+
+runtime: - 3895.7013943195343s
+
+---------------Printing the Topics------------------
+0: oil price reuters stock york crude dollar high barrel investor
+1: game season night team year victory coach point three york
+2: bush kerry washington court federal year quot state internet tax
+3: reuters stock http href ticker investor target aspx york corp
+4: percent year sale quarter growth third month reuters market reported
+5: company software technology system service phone mobile ibm year corp
+6: minister president prime nuclear state reuters quot country united election
+7: quarter year percent sale profit third reported earnings thursday share
+8: killed people baghdad police iraq iraqi bomb city attack killing
+9: company billion corp group airline plan executive year yesterday bank
+10: internet font state president court quot washington federal year government
+11: cup champion year team final olympic quot win game league
+12: company corp service oracle business billion year wireless executive software
+13: minister prime darfur government sudan peace reuters quot leader president
+14: year price percent rate quarter economy growth month sale rose
+15: microsoft software window music service computer search company apple system
+16: president election bush european state presidential john reuters quot united
+17: iraq palestinian reuters iraqi militant leader government gaza minister force
+18: percent quarter year rate sale price growth reuters month third
+19: microsoft search internet music service google online quot computer company
+20: space year quot scientist nasa time reuters moon earth week
+21: rate price year month growth economy percent interest sale consumer
+22: percent sale year quarter third reported reuters profit month growth
+23: percent rate economy year quarter growth sale month price rose
+24: minister president nuclear prime state quot reuters country united election
+25: president bush john election state kerry reuters house presidential campaign
+26: quarter year percent profit sale third company reuters share earnings
+27: people official reuters hurricane year storm killed japan island china
+28: internet font quot company online computer microsoft music software web
+29: nuclear president iran bush minister state reuters election uranium prime
+---------------End of Topics---------------------
+KNN:- [0.8548666811185779, 0.8517067151361537, 0.851089729693675, 0.8500725374776968, 0.8502392902999883]------------------------------------------------------------------------------------------
+

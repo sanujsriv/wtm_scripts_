@@ -1,0 +1,16 @@
+searchsnippet - short
+
+****************************************************************************************************
+
+12340, 12340
+(labels,count): [('business', 1500), ('computers', 1500), ('culture-arts-entertainment', 2210), ('education-science', 2660), ('engineering', 370), ('health', 1180), ('politics-society', 1500), ('sports', 1420)]
+
+len of - 
+  data_preprocessed: 12267
+  data_preprocessed_labels: 12267
+  vocab:  3000
+  embeddings : 3000
+
+ min,mean,max docs len: 3, 13.19, 37
+
+****************************************************************************************************

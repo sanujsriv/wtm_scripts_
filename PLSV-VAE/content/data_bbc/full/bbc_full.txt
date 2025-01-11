@@ -1,0 +1,55 @@
+bbc - full
+
+****************************************************************************************************
+
+2225, 2225
+(labels,count): [('business', 510), ('entertainment', 386), ('politics', 417), ('sport', 511), ('tech', 401)]
+
+len of - 
+  data_preprocessed: 2225
+  data_preprocessed_labels: 2225
+  vocab:  2000
+  embeddings : 2000
+
+ min,mean,max docs len: 30, 121.88, 1039
+
+****************************************************************************************************bbc_full_small
+
+
+
+:
+
+id : 1
+
+len of data_preprocesssed_sampled: 100
+(labels,count): [('business', 20), ('entertainment', 20), ('politics', 20), ('sport', 20), ('tech', 20)]
+ min,mean,max docs len: 35, 122.06, 516
+ sampled_data_vocab_size: 1767
+
+id : 2
+
+len of data_preprocesssed_sampled: 100
+(labels,count): [('business', 20), ('entertainment', 20), ('politics', 20), ('sport', 20), ('tech', 20)]
+ min,mean,max docs len: 45, 123.7, 376
+ sampled_data_vocab_size: 1776
+
+id : 3
+
+len of data_preprocesssed_sampled: 100
+(labels,count): [('business', 20), ('entertainment', 20), ('politics', 20), ('sport', 20), ('tech', 20)]
+ min,mean,max docs len: 36, 123.21, 526
+ sampled_data_vocab_size: 1791
+
+id : 4
+
+len of data_preprocesssed_sampled: 100
+(labels,count): [('business', 20), ('entertainment', 20), ('politics', 20), ('sport', 20), ('tech', 20)]
+ min,mean,max docs len: 30, 116.38, 256
+ sampled_data_vocab_size: 1758
+
+id : 5
+
+len of data_preprocesssed_sampled: 100
+(labels,count): [('business', 20), ('entertainment', 20), ('politics', 20), ('sport', 20), ('tech', 20)]
+ min,mean,max docs len: 49, 122.87, 373
+ sampled_data_vocab_size: 1836

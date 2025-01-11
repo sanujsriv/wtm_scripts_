@@ -1,0 +1,60 @@
+
+ | Run - 1| data - agnews120kshortnormal| runtime:  2059.0340569019318s
+------------------------------
+0: company corp executive billion group chief plan airline year yesterday
+1: minister prime iraq palestinian leader government president reuters quot peace
+2: company microsoft software computer system service search quot technology year
+3: year quot space olympic athens day team test time gold
+4: president bush election state nuclear reuters john quot minister presidential
+5: reuters stock price oil percent investor year quarter york profit
+6: people killed iraq reuters baghdad police iraqi official city attack
+7: drug government state company year reuters tax billion union oil
+8: game season night team year win victory league sunday cup
+9: company internet service software wireless microsoft online phone corp font
+------------------------------
+KNN: [0.8289713074393684, 0.8228622456644022, 0.8207007060473035, 0.8197659862128824, 0.8196074176695431], KNN mean score: 0.8223815326066999
+
+ | Run - 2| data - agnews120kshortnormal| runtime:  2052.6426434516907s
+------------------------------
+0: minister prime president election leader reuters iraq government quot united
+1: company microsoft software service computer system search technology quot internet
+2: iraq killed iraqi baghdad people reuters police attack militant official
+3: space year people nasa scientist reuters quot official hurricane day
+4: internet company service software microsoft wireless font corp online computer
+5: game season night team year victory york three point coach
+6: president bush state nuclear election reuters john united quot european
+7: company executive billion corp year plan group chief airline quot
+8: reuters stock price oil percent investor year quarter york profit
+9: cup team champion year final quot olympic second win athens
+------------------------------
+KNN: [0.8401962911652284, 0.8363572632738562, 0.8352890120345179, 0.8344127121897481, 0.833878586570079], KNN mean score: 0.8360267730466859
+
+ | Run - 3| data - agnews120kshortnormal| runtime:  2055.581869840622s
+------------------------------
+0: doubleheader adapter timberwolves mourinho nvidia opteron adobe serie firewall corey
+1: cup team year champion quot final olympic game win athens
+2: company microsoft service software internet computer system technology search quot
+3: space year scientist people quot nasa reuters official monday week
+4: president bush state government year john reuters union trade kerry
+5: company corp executive billion group federal court year chief plan
+6: iraq killed people baghdad iraqi police reuters attack official city
+7: president election minister nuclear state reuters quot prime country bush
+8: game season night team year victory point york three coach
+9: reuters stock price oil percent investor year quarter york profit
+------------------------------
+KNN: [0.8340288094006109, 0.8295388159102669, 0.8280950075945986, 0.8276777219542321, 0.8275108076980855], KNN mean score: 0.8293702325115587
+
+ | Run - 4| data - agnews120kshortnormal| runtime:  2066.8863089084625s
+------------------------------
+0: reuters oil price stock percent investor quarter year york profit
+1: game season night year team york victory coach three league
+2: space year quot scientist nasa time researcher reuters state people
+3: company corp billion group year executive reuters plan chief business
+4: minister president prime election leader reuters government quot iraq country
+5: iraq killed iraqi baghdad reuters militant people palestinian attack official
+6: microsoft company software service internet computer system technology music search
+7: cup champion year team final olympic second win quot athens
+8: people police reuters killed official year hurricane monday storm sunday
+9: president bush state nuclear reuters election john united quot european
+------------------------------
+KNN: [0.8593747391964748, 0.8580227337216871, 0.8574301881123667, 0.8568710253542755, 0.8566456911084775], KNN mean score: 0.8576688754986564

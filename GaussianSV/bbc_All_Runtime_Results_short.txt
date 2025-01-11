@@ -1,0 +1,6 @@
+
+Time for num_run : 1 - 7340.671926021576
+Time for num_run : 2 - 8019.541887998581
+Time for num_run : 3 - 8430.959705591202
+Time for num_run : 4 - 8445.830702781677
+Time for num_run : 5 - 8283.316752910614

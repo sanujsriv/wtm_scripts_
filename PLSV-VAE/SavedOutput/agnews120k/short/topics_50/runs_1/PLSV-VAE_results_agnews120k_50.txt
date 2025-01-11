@@ -1,0 +1,58 @@
+------------------------------------------------------------------------------------------
+
+runtime: - 4100.797358512878s
+
+---------------Printing the Topics------------------
+0: president election european nuclear state presidential bush minister leader united
+1: minister prime quot reuters leader government official foreign security talk
+2: reuters stock investor target http aspx href ticker york corp
+3: music search internet service computer company microsoft google user online
+4: people year hurricane killed reuters official police island storm japan
+5: minister prime election president united nation state leader pakistan talk
+6: microsoft search browser window quot apple ipod explorer firefox site
+7: athens olympic test gold day medal india cricket reuters olympics
+8: minister prime president united country reuters election state leader peace
+9: quot game year people internet color online site industry movie
+10: bush president john kerry election campaign state trade presidential reuters
+11: iraq palestinian minister prime rebel darfur peace sudan israeli government
+12: bush president john kerry state reuters trade washington campaign election
+13: nasa space scientist united researcher state administration reuters company quot
+14: team quot season coach player year football time league game
+15: minister iraq palestinian prime president government gaza quot reuters official
+16: president nuclear minister election iraq bush european iran state korea
+17: president bush john election kerry reuters european state presidential trade
+18: space state scientist president year specie quot federal government study
+19: killed people baghdad police rebel iraqi reuters killing attack bomb
+20: people killed police bomb baghdad killing reuters attack official car
+21: year quot computer time people state technology university internet scientist
+22: palestinian minister iraq rebel reuters militant hostage prime gaza official
+23: bush president john kerry trade state election reuters presidential european
+24: oil price reuters stock york rate dollar crude week high
+25: game night york sox red inning victory season three series
+26: state year government official international reuters wednesday friday agency tuesday
+27: space scientist nasa drug moon quot researcher flight system saturn
+28: space nasa scientist year moon spacecraft drug quot earth reuters
+29: cup champion team year win round league united championship final
+30: president leader minister government reuters election prime ariel sharon state
+31: president nuclear election state european reuters quot country united bush
+32: font arial serif face internet sans federal washington computer quot
+33: leader government reuters iraq palestinian region war official thursday israel
+34: microsoft software system company service technology server window version corp
+35: game season team year coach night player quot time point
+36: olympic athens medal test gold australia final champion day second
+37: killed iraqi baghdad people palestinian iraq attack official gaza reuters
+38: company software service wireless corp business technology phone year mobile
+39: company corp billion executive group plan chief year yesterday airline
+40: nuclear president iran election minister state country united reuters korea
+41: iraq iraqi militant baghdad force city palestinian israeli gaza three
+42: president year bush tax state republican government house washington tuesday
+43: year space quot state washington federal reuters official scientist drug
+44: reuters minister state leader prime president monday united election quot
+45: iraq leader government iraqi reuters military israeli troop group president
+46: minister sharon ariel prime president united talk sudan election nation
+47: quarter year percent profit sale third company share reuters earnings
+48: nuclear president iran election korea european uranium china north atomic
+49: president election minister prime state government sudan darfur sharon war
+---------------End of Topics---------------------
+KNN:- [0.8581933999232937, 0.855200186763161, 0.8543080591639014, 0.8540412546482349, 0.8534909703346729]------------------------------------------------------------------------------------------
+

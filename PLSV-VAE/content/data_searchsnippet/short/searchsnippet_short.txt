@@ -1,0 +1,55 @@
+searchsnippet - short
+
+****************************************************************************************************
+
+12340, 12340
+(labels,count): [('business', 1500), ('computers', 1500), ('culture-arts-entertainment', 2210), ('education-science', 2660), ('engineering', 370), ('health', 1180), ('politics-society', 1500), ('sports', 1420)]
+
+len of - 
+  data_preprocessed: 12267
+  data_preprocessed_labels: 12267
+  vocab:  3000
+  embeddings : 3000
+
+ min,mean,max docs len: 3, 13.19, 37
+
+****************************************************************************************************searchsnippet_short_small
+
+
+
+:
+
+id : 1
+
+len of data_preprocesssed_sampled: 160
+(labels,count): [('business', 20), ('computers', 20), ('culture-arts-entertainment', 20), ('education-science', 20), ('engineering', 20), ('health', 20), ('politics-society', 20), ('sports', 20)]
+ min,mean,max docs len: 4, 13.67, 31
+ sampled_data_vocab_size: 819
+
+id : 2
+
+len of data_preprocesssed_sampled: 160
+(labels,count): [('business', 20), ('computers', 20), ('culture-arts-entertainment', 20), ('education-science', 20), ('engineering', 20), ('health', 20), ('politics-society', 20), ('sports', 20)]
+ min,mean,max docs len: 5, 13.29, 27
+ sampled_data_vocab_size: 873
+
+id : 3
+
+len of data_preprocesssed_sampled: 160
+(labels,count): [('business', 20), ('computers', 20), ('culture-arts-entertainment', 20), ('education-science', 20), ('engineering', 20), ('health', 20), ('politics-society', 20), ('sports', 20)]
+ min,mean,max docs len: 4, 12.9, 28
+ sampled_data_vocab_size: 884
+
+id : 4
+
+len of data_preprocesssed_sampled: 160
+(labels,count): [('business', 20), ('computers', 20), ('culture-arts-entertainment', 20), ('education-science', 20), ('engineering', 20), ('health', 20), ('politics-society', 20), ('sports', 20)]
+ min,mean,max docs len: 3, 12.99, 26
+ sampled_data_vocab_size: 825
+
+id : 5
+
+len of data_preprocesssed_sampled: 160
+(labels,count): [('business', 20), ('computers', 20), ('culture-arts-entertainment', 20), ('education-science', 20), ('engineering', 20), ('health', 20), ('politics-society', 20), ('sports', 20)]
+ min,mean,max docs len: 3, 13.41, 30
+ sampled_data_vocab_size: 884

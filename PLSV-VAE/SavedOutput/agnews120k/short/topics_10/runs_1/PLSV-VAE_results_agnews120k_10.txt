@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------------------
+
+runtime: - 3608.59410905838s
+
+---------------Printing the Topics------------------
+0: microsoft internet music computer quot search software company online web
+1: cup champion team year final olympic second win quot athens
+2: reuters company stock investor year corp quarter percent target billion
+3: iraq killed iraqi baghdad people reuters palestinian police official attack
+4: space year people nasa quot reuters scientist hurricane official week
+5: game season night team year victory york coach point three
+6: oil price reuters stock york year rate percent dollar month
+7: company corp service software business phone wireless mobile technology system
+8: president minister prime election reuters state quot nuclear country united
+9: bush president state year john quot reuters government washington kerry
+---------------End of Topics---------------------
+KNN:- [0.8375327252413747, 0.8317964281545465, 0.8288449031999866, 0.8274275042105088, 0.8265270389701346]------------------------------------------------------------------------------------------
+

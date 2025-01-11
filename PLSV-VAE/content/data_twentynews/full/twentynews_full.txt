@@ -1,0 +1,37 @@
+twentynews - full
+
+****************************************************************************************************
+
+18846, 18846
+(labels,count): [('alt.atheism', 799), ('comp.graphics', 973), ('comp.os.ms-windows.misc', 985), ('comp.sys.ibm.pc.hardware', 982), ('comp.sys.mac.hardware', 963), ('comp.windows.x', 988), ('misc.forsale', 975), ('rec.autos', 990), ('rec.motorcycles', 996), ('rec.sport.baseball', 994), ('rec.sport.hockey', 999), ('sci.crypt', 991), ('sci.electronics', 984), ('sci.med', 990), ('sci.space', 987), ('soc.religion.christian', 997), ('talk.politics.guns', 910), ('talk.politics.mideast', 940), ('talk.politics.misc', 775), ('talk.religion.misc', 628)]
+
+len of - 
+  data_preprocessed: 17728
+  data_preprocessed_labels: 17728
+  vocab:  4000
+  embeddings : 4000
+
+ min,mean,max docs len: 3, 58.38, 4233
+
+****************************************************************************************************
+
+len of - 
+  data_preprocessed_short: 7519
+  data_preprocessed_labels_short: 7519
+  vocab_short:  3909
+
+ min,mean,max short docs len: 3, 11.88, 21
+
+****************************************************************************************************
+twentynews_full_small
+
+
+
+:
+
+id : 1
+
+len of data_preprocesssed_sampled: 400
+(labels,count): [('alt.atheism', 20), ('comp.graphics', 20), ('comp.os.ms-windows.misc', 20), ('comp.sys.ibm.pc.hardware', 20), ('comp.sys.mac.hardware', 20), ('comp.windows.x', 20), ('misc.forsale', 20), ('rec.autos', 20), ('rec.motorcycles', 20), ('rec.sport.baseball', 20), ('rec.sport.hockey', 20), ('sci.crypt', 20), ('sci.electronics', 20), ('sci.med', 20), ('sci.space', 20), ('soc.religion.christian', 20), ('talk.politics.guns', 20), ('talk.politics.mideast', 20), ('talk.politics.misc', 20), ('talk.religion.misc', 20)]
+ min,mean,max docs len: 3, 60.53, 1502
+ sampled_data_vocab_size: 3391

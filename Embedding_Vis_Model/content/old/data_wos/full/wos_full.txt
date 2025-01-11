@@ -1,0 +1,55 @@
+wos - full
+
+****************************************************************************************************
+
+46985, 46985
+(labels,count): [('Civil  Engineering', 4237), ('Computer  Science', 6514), ('Electrical  Engineering', 5483), ('Mechanical  Engineering', 3297), ('Medical  Science', 14625), ('Psychology', 7142), ('biochemistry', 5687)]
+
+len of - 
+  data_preprocessed: 46985
+  data_preprocessed_labels: 46985
+  vocab:  4000
+  embeddings : 4000
+
+ min,mean,max docs len: 3, 88.73, 426
+
+****************************************************************************************************wos_full_small
+
+
+
+:
+
+id : 1
+
+len of data_preprocesssed_sampled: 140
+(labels,count): [('Civil  Engineering', 20), ('Computer  Science', 20), ('Electrical  Engineering', 20), ('Mechanical  Engineering', 20), ('Medical  Science', 20), ('Psychology', 20), ('biochemistry', 20)]
+ min,mean,max docs len: 29, 82.51, 184
+ sampled_data_vocab_size: 2476
+
+id : 2
+
+len of data_preprocesssed_sampled: 140
+(labels,count): [('Civil  Engineering', 20), ('Computer  Science', 20), ('Electrical  Engineering', 20), ('Mechanical  Engineering', 20), ('Medical  Science', 20), ('Psychology', 20), ('biochemistry', 20)]
+ min,mean,max docs len: 28, 89.77, 198
+ sampled_data_vocab_size: 2541
+
+id : 3
+
+len of data_preprocesssed_sampled: 140
+(labels,count): [('Civil  Engineering', 20), ('Computer  Science', 20), ('Electrical  Engineering', 20), ('Mechanical  Engineering', 20), ('Medical  Science', 20), ('Psychology', 20), ('biochemistry', 20)]
+ min,mean,max docs len: 17, 88.48, 164
+ sampled_data_vocab_size: 2536
+
+id : 4
+
+len of data_preprocesssed_sampled: 140
+(labels,count): [('Civil  Engineering', 20), ('Computer  Science', 20), ('Electrical  Engineering', 20), ('Mechanical  Engineering', 20), ('Medical  Science', 20), ('Psychology', 20), ('biochemistry', 20)]
+ min,mean,max docs len: 15, 87.15, 185
+ sampled_data_vocab_size: 2468
+
+id : 5
+
+len of data_preprocesssed_sampled: 140
+(labels,count): [('Civil  Engineering', 20), ('Computer  Science', 20), ('Electrical  Engineering', 20), ('Mechanical  Engineering', 20), ('Medical  Science', 20), ('Psychology', 20), ('biochemistry', 20)]
+ min,mean,max docs len: 21, 83.57, 178
+ sampled_data_vocab_size: 2502

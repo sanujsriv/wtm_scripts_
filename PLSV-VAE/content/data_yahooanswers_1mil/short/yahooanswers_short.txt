@@ -1,0 +1,16 @@
+yahooanswers - short
+
+****************************************************************************************************
+
+1460000, 1460000
+(labels,count): [('Business & Finance', 146000), ('Computers & Internet', 146000), ('Education & Reference', 146000), ('Entertainment & Music', 146000), ('Family & Relationships', 146000), ('Health', 146000), ('Politics & Government', 146000), ('Science & Mathematics', 146000), ('Society & Culture', 146000), ('Sports', 146000)]
+
+len of - 
+  data_preprocessed: 1246258
+  data_preprocessed_labels: 1246258
+  vocab:  8000
+  embeddings : 8000
+
+ min,mean,max docs len: 3, 11.48, 327
+
+****************************************************************************************************

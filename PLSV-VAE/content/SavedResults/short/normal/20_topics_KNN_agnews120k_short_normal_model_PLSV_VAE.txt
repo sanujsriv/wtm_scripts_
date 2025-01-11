@@ -1,0 +1,100 @@
+
+ | Run - 1| data - agnews120kshortnormal| runtime:  2079.8911781311035s
+------------------------------
+0: president nuclear election iran minister quot reuters state european talk
+1: president bush john state election presidential kerry united reuters european
+2: microsoft search music service internet company computer software user window
+3: company corp billion executive group plan year chief yesterday business
+4: president nuclear election iran minister quot state reuters european united
+5: killed baghdad people iraq iraqi police attack city reuters killing
+6: space scientist nasa year quot international reuters moon earth researcher
+7: minister prime quot reuters government peace leader sudan president darfur
+8: cup champion year team final olympic second quot athens win
+9: game season night team year coach league victory york point
+10: year state reuters president government washington drug space scientist tuesday
+11: iraq palestinian reuters leader gaza government israeli rebel minister iraqi
+12: internet quot font music game online computer search year face
+13: oil price reuters stock york dollar rate crude week percent
+14: bush kerry john year president reuters house state tax republican
+15: reuters stock http href ticker investor target aspx york corp
+16: company software service system microsoft technology corp phone mobile business
+17: quarter year percent profit sale third company share reuters earnings
+18: space year quot scientist nasa time font internet people researcher
+19: people police reuters killed official year island hurricane storm sunday
+------------------------------
+KNN: [0.8539917544357464, 0.8522308090333995, 0.8515464605831984, 0.8511625577940611, 0.8506618150256213], KNN mean score: 0.8519186793744055
+
+ | Run - 2| data - agnews120kshortnormal| runtime:  2076.9065022468567s
+------------------------------
+0: minister prime quot president government leader reuters united iraq state
+1: reuters stock http ticker href investor target aspx york corp
+2: killed people baghdad police iraq iraqi attack bomb reuters city
+3: game season night team year victory york point coach three
+4: price oil reuters percent quarter year stock profit york sale
+5: company music service computer phone technology mobile software internet apple
+6: microsoft software search system window service company web security version
+7: people reuters official killed police year hurricane storm japan island
+8: killed people baghdad iraq police iraqi attack bomb city killing
+9: font internet microsoft search security google web face sans computer
+10: cup champion team year final game quot olympic league second
+11: company corp executive service billion business chief oracle court year
+12: bush president john election kerry washington presidential campaign voter security
+13: space year quot scientist nasa reuters time monday week wednesday
+14: company year billion airline group plan share bank yesterday drug
+15: iraq palestinian iraqi reuters militant gaza israeli baghdad killed leader
+16: president minister election prime state reuters bush leader united quot
+17: president nuclear bush election state reuters iran quot john kerry
+18: president nuclear election bush state reuters quot minister iran country
+19: minister iraq prime reuters palestinian government leader president darfur sudan
+------------------------------
+KNN: [0.848458546844486, 0.8455125102234982, 0.8446946303683798, 0.8443190732920499, 0.8441020847590592], KNN mean score: 0.8454173690974945
+
+ | Run - 3| data - agnews120kshortnormal| runtime:  2063.092679977417s
+------------------------------
+0: year state reuters government wednesday bush tuesday washington friday week
+1: drug state year scientist space washington official reuters specie flight
+2: reuters stock http href ticker investor target aspx york corp
+3: space nasa scientist moon spacecraft year drug reuters mar astronaut
+4: linebacker doubleheader mourinho outfielder corey cavalier steelers juventus bayern cornerback
+5: minister prime president quot reuters government state leader united country
+6: font quot internet computer face year size game color sans
+7: game season night team year victory york coach point three
+8: president nuclear election minister reuters state iran quot united country
+9: president bush election john state kerry reuters presidential european quot
+10: president bush john election kerry state presidential reuters trade washington
+11: cup year champion team final quot olympic second win league
+12: oil price reuters year percent quarter stock profit york sale
+13: company billion corp executive group year plan chief yesterday share
+14: microsoft music search internet online computer google service web apple
+15: minister iraq palestinian prime reuters government leader quot israeli president
+16: people year police reuters official killed hurricane storm island sunday
+17: knicks valencia blackburn colt bayern seeded athletics oriole midfielder linebacker
+18: killed iraq baghdad people iraqi police attack reuters city militant
+19: company software service microsoft system technology corp mobile phone business
+------------------------------
+KNN: [0.85529368563369, 0.8525062175560415, 0.8514630034551252, 0.8509706063994926, 0.8507703092921166], KNN mean score: 0.8522007644672932
+
+ | Run - 4| data - agnews120kshortnormal| runtime:  2086.033946275711s
+------------------------------
+0: quot year space spacecraft time scientist moon people nasa earth
+1: company corp service wireless software business phone reuters mobile technology
+2: team quot player year time football season coach league baseball
+3: music quot internet online game computer font search apple company
+4: space scientist nasa year state reuters drug international study human
+5: quot team player coach season year baseball university fan early
+6: minister nuclear president state quot iran reuters prime election country
+7: president bush john kerry election state presidential reuters european year
+8: cup team champion year final quot olympic second win game
+9: people killed baghdad police iraq iraqi bomb reuters attack killing
+10: minister prime president reuters government leader quot darfur peace sudan
+11: company billion reuters corp executive year group airline stock plan
+12: people year reuters police hurricane official island monday storm day
+13: mozilla beta mp3 emc dal microprocessor messaging docomo lenovo itanium
+14: reuters oil price stock percent quarter investor year york profit
+15: microsoft software company system service window version security computer technology
+16: game season night year team victory york point three coach
+17: bush president state john year kerry reuters washington election government
+18: killed baghdad hostage iraqi israeli militant prisoner palestinian muslim gaza
+19: president election bush state reuters european presidential john nuclear united
+------------------------------
+KNN: [0.85776401662466, 0.8550099313982408, 0.8544340772145349, 0.8534910116673065, 0.8533407888367746], KNN mean score: 0.8548079651483034

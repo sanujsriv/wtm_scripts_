@@ -1,0 +1,140 @@
+
+ | Run - 1| data - agnews120kshortnormal| runtime:  2059.740964651108s
+------------------------------
+0: court year quot government reuters president iraq trial military minister
+1: coach football team bowl college state year game university season
+2: team coach year football quot season club formula united night
+3: president bush election john presidential state kerry reuters vote year
+4: company phone wireless corp service mobile billion reuters maker oracle
+5: reuters stock quarter investor profit target http ticker href aspx
+6: league champion cup win goal saturday victory season sunday match
+7: palestinian darfur minister sudan leader israeli reuters government israel region
+8: game sox red series yankee inning boston york night league
+9: people reuters official killed hurricane storm year japan sunday police
+10: minister prime iraq president war quot election blair tony leader
+11: software system microsoft company ibm server technology linux business intel
+12: quot year game time day star player baseball york week
+13: olympic athens test medal gold australia game day final olympics
+14: killed baghdad iraq iraqi people city attack bomb force reuters
+15: iraq hostage militant group iraqi baghdad three kidnapped british police
+16: point night victory scored yard touchdown game lead state win
+17: year player team league contract season quot baseball manager sport
+18: music apple game digital computer ipod player store video sony
+19: rate year economy month percent reuters federal growth interest reserve
+20: cup race champion grand prix season team win saturday qualifying
+21: nuclear iran state minister talk korea north quot reuters european
+22: round open cup final championship lead year second win sunday
+23: internet company online court software microsoft federal service industry computer
+24: manchester united england arsenal manager striker chelsea league madrid club
+25: space scientist year nasa researcher human study earth international reuters
+26: game season sunday quarterback team nfl week sport coach monday
+27: search microsoft google internet security font web service user engine
+28: company airline billion group executive plan corp bank yesterday year
+29: oil price reuters stock crude york high barrel dollar record
+------------------------------
+KNN: [0.8537831116155631, 0.8505115921950894, 0.8480662983425414, 0.8477241241174409, 0.8472066899233863], KNN mean score: 0.8494583632388043
+
+ | Run - 2| data - agnews120kshortnormal| runtime:  2099.892322063446s
+------------------------------
+0: olympic athens test champion team year game gold england medal
+1: game season night sox team york red series year boston
+2: software microsoft company service system internet security technology window server
+3: game season night york sox red team series boston sunday
+4: game season night sox red boston york three team sunday
+5: space quot year nasa moon scientist time earth study spacecraft
+6: championship lead round victory point second win shot year sunday
+7: cup champion league team united match final year medal saturday
+8: year coach team game player season quot contract league red
+9: game point victory night season second win yard lead saturday
+10: oil price reuters quarter percent year stock profit sale york
+11: cup game win final year season open round team three
+12: cup final win round open second champion championship match sunday
+13: company corp software service internet wireless business oracle technology phone
+14: year coach game team season player contract quot red league
+15: killed people iraq baghdad iraqi reuters police city militant official
+16: president election bush john state reuters presidential year minister quot
+17: player year coach team league quot season baseball football game
+18: search google computer music apple microsoft company web engine version
+19: game season sox night red team series york sunday boston
+20: font game quot music color computer video year face apple
+21: quot space year time university station agency star week human
+22: space year scientist nasa quot researcher time monday spacecraft moon
+23: reuters stock http href ticker investor target aspx york corp
+24: quot baseball nhl player league team year washington university steroid
+25: space quot year scientist game computer time researcher company reuters
+26: minister reuters prime government iraq quot nuclear united leader state
+27: game night victory yard win season touchdown sunday point three
+28: company billion year group corp plan executive yesterday airline bank
+29: point game victory night win lead scored yard season second
+------------------------------
+KNN: [0.8564704311395236, 0.854058520138205, 0.8537664201899484, 0.8533157516983526, 0.8532156031446646], KNN mean score: 0.8541653452621389
+
+ | Run - 3| data - agnews120kshortnormal| runtime:  2064.979697704315s
+------------------------------
+0: quot year font internet space computer size face game scientist
+1: year president bush company tax government reuters trade federal airline
+2: quot internet game music online font computer search company google
+3: president minister palestinian iraq government prime rebel leader reuters israeli
+4: oil price reuters percent year stock quarter york sale profit
+5: president bush state john election reuters presidential united union quot
+6: palestinian iraq leader government reuters rebel israeli military troop iraqi
+7: president nuclear european iran minister election reuters leader iraq korea
+8: reuters stock http href ticker investor target aspx york corp
+9: minister state election prime quot country party talk reuters iraq
+10: game season team year coach night player quot time league
+11: drug year state government reuters scientist friday washington official space
+12: space year nasa drug scientist international flight study state reuters
+13: team cup league quot year champion united season player england
+14: bush president john state european election trade reuters china union
+15: people reuters police killed official hurricane year storm island day
+16: people killed baghdad police bomb iraqi killing attack iraq reuters
+17: president kerry state bush election john reuters year nuclear quot
+18: space scientist nasa year quot moon researcher earth spacecraft time
+19: company corp billion year group executive share plan chief largest
+20: president election nuclear minister quot bush state reuters iran country
+21: minister prime sudan darfur peace government reuters region ariel sharon
+22: olympic athens final champion second round cup open test medal
+23: microsoft search music service software internet company computer user window
+24: year state drug reuters space quot official friday government washington
+25: iraq militant iraqi killed hostage reuters baghdad city palestinian force
+26: bush president tax billion kerry state reuters year john senate
+27: company software service system technology microsoft corp phone business mobile
+28: game night victory point three win york yard touchdown inning
+29: space year scientist nasa quot time flight researcher reuters moon
+------------------------------
+KNN: [0.850778655004924, 0.8484251639932566, 0.8473819498923403, 0.8471649613593497, 0.8465056500475706], KNN mean score: 0.8480512760594883
+
+ | Run - 4| data - agnews120kshortnormal| runtime:  2068.334635257721s
+------------------------------
+0: quarter year percent profit sale third company share reuters earnings
+1: cup team champion league year quot win united season championship
+2: bush trade tax president union john house republican kerry washington
+3: reuters stock http ticker href investor target aspx york corp
+4: microsoft window software service company search version user computer web
+5: airline state year bankruptcy reuters company plan government airway official
+6: year sale percent quarter profit price third month growth rose
+7: oil price reuters stock york rate dollar crude week high
+8: bush kerry president john union state election united democrat government
+9: minister prime united darfur peace sudan government palestinian quot leader
+10: space year scientist drug reuters international nasa wednesday state human
+11: president bush european state john presidential election trade united quot
+12: year percent quarter profit share sale third company earnings store
+13: year quot space scientist internet time computer font game reuters
+14: music internet search online computer google quot game company service
+15: people police killed official reuters killing bomb car attack three
+16: game night victory point yard york three win touchdown inning
+17: iraq iraqi baghdad killed militant palestinian force city attack israeli
+18: president election nuclear reuters quot minister country leader iran iraq
+19: space nasa state drug year airline federal government company air
+20: company software service technology system corp microsoft phone mobile ibm
+21: european bush uranium china minister nuclear iran program enrichment prime
+22: year government union reuters state company tax president monday wednesday
+23: company corp billion executive group chief year business plan share
+24: olympic athens final medal test gold champion second open reuters
+25: game season year team coach player quot night league time
+26: microsoft search game apple user music service federal software google
+27: iraq reuters palestinian government leader official minister gaza president iraqi
+28: space nasa scientist quot year moon people earth researcher spacecraft
+29: font quot face size arial serif sans color washington game
+------------------------------
+KNN: [0.847398641317955, 0.8436597619802707, 0.8425748193153177, 0.8421408422493365, 0.8413396538198328], KNN mean score: 0.8434227437365426

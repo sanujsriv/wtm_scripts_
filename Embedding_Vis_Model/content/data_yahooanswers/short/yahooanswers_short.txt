@@ -1,0 +1,8 @@
+yahooanswers_short_
+
+
+
+:len of data_preprocesssed_sampled: 50000
+(labels,count): [('Business & Finance', 5000), ('Computers & Internet', 5000), ('Education & Reference', 5000), ('Entertainment & Music', 5000), ('Family & Relationships', 5000), ('Health', 5000), ('Politics & Government', 5000), ('Science & Mathematics', 5000), ('Society & Culture', 5000), ('Sports', 5000)]
+ min,mean,max docs len: 3, 10.75, 236
+ sampled_data_vocab_size: 4000
